@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
   <p>
     <a href="https://discord.gg/bRCvFy9"><img src="https://discordapp.com/api/guilds/222078108977594368/embed.png" alt="Discord server" /></a>
@@ -35,3 +35,4 @@ client.on('ready', () => {
 // Log in to RPC with client id
 client.login({ clientId, scopes });
 ```
+-->
